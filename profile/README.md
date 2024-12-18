@@ -1,3 +1,1 @@
-# Rings Protocol
-
-Rings Protocol repositories : 
+## Rings Protocol
